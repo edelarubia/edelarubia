@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eloy
+
+Applied AI and Machine Learning professional with a background in risk modelling and data science across UBS, KPMG and Deloitte.
+
+I work at the intersection of analytics, machine learning and financial risk, and I am currently expanding into modern AI systems including LLMs, Generative AI and MLOps through the CAS in Machine Learning at HSLU.
+
+This GitHub showcases applied projects in:
+- Machine Learning
+- Generative AI and RAG pipelines
+- Risk and financial analytics
+- Data pipelines and ML systems
 
 <!--
 **edelarubia/edelarubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

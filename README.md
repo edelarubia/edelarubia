@@ -26,6 +26,7 @@ MLOps
 ## Connect
 
 LinkedIn: https://linkedin.com/in/eloy-de-la-rubia-luengo
+
 Location: Zurich, Switzerland
 
 <!--

@@ -10,6 +10,24 @@ This GitHub showcases applied projects in:
 - Risk and financial analytics
 - Data pipelines and ML systems
 
+
+## Featured Projects
+
+*TODO*
+
+## Currently Learning
+
+Deep Learning  
+Natural Language Processing  
+Transformers & Large Language Models  
+Reinforcement Learning  
+MLOps
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/eloy-de-la-rubia-luengo
+Location: Zurich, Switzerland
+
 <!--
 **edelarubia/edelarubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

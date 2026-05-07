@@ -1,4 +1,4 @@
-# Hi, I'm Eloy
+# Hi, I'm Eloy 👋🏻
 
 Applied AI and Machine Learning professional with a background in risk modelling and data science across UBS, KPMG and Deloitte.
 
